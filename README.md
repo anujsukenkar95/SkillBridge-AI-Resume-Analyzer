@@ -42,8 +42,7 @@
 
 1.  **Clone the Repository**
     ```bash
-    git clone [https://github.com/your-username/SkillBridge.git](https://github.com/your-username/SkillBridge.git)
-    cd SkillBridge
+    https://github.com/anujsukenkar95/SkillBridge-AI-Resume-Analyzer.git
     ```
 
 2.  **Install Dependencies**
