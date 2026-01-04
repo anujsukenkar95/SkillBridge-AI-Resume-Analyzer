@@ -1,0 +1,14 @@
+# Python Garbage
+__pycache__/
+*.pyc
+
+# Virtual Environment (If you have one)
+env/
+venv/
+.venv/
+
+# IDE Settings (VS Code)
+.vscode/
+
+# Mac OS Garbage
+.DS_Store
