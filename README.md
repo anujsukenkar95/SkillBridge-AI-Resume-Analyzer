@@ -60,10 +60,11 @@
 
 ## 📸 Screenshots
 
-![App Screenshot](Dashboard SS 1.png)
+![My Dashboard](Dashboard1.png)
 
 ---
 
 ### 👨‍💻 Author
 Developed by **[Anuj Sukenkar & Team]**
+
 *BCA Final Year Project*
