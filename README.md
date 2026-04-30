@@ -60,8 +60,14 @@
 
 ## 📸 Screenshots
 
-![My Dashboard](Dashboard 1.png)
+### 🖥️ Main Dashboard
+![Dashboard Overview](Dashboard%201.png)
 
+### 📊 Analysis Results
+![Skill Gap Analysis](Dashboard%202.png)
+
+### 📈 Visual Analytics
+![Data Visualizations](Dashboard%203.png)
 
 ---
 
