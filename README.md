@@ -61,8 +61,11 @@
 ## 📸 Screenshots
 
 ![My Dashboard](Dashboard 1.png)
+
 ![My Dashboard](Dashboard 2.png)
+
 ![My Dashboard](Dashboard 3.png)
+
 ---
 
 ### 👨‍💻 Author
