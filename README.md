@@ -5,7 +5,8 @@
 ![NLP](https://img.shields.io/badge/AI-Spacy-green)
 ![License](https://img.shields.io/badge/License-MIT-yellow)
 
-**SkillBridge** is an intelligent career-tech tool designed to bridge the gap between job seekers and industry requirements[cite: 1]. By leveraging a **Hybrid NLP Engine**, it goes beyond simple keyword matching to provide deep semantic analysis and actionable feedback for resume optimization[cite: 1].
+**SkillBridge** is an intelligent career-tech tool designed to bridge the gap between job seekers and industry requirements. By leveraging a **Hybrid NLP Engine**, it goes beyond simple keyword matching to provide deep semantic analysis and actionable feedback for resume optimization.
+
 ---
 
 ## 🌟 Key Features
