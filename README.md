@@ -3,9 +3,9 @@
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue)
 ![Streamlit](https://img.shields.io/badge/Streamlit-App-red)
 ![NLP](https://img.shields.io/badge/AI-Spacy-green)
+![License](https://img.shields.io/badge/License-MIT-yellow)
 
-**SkillBridge** is an intelligent resume analysis tool designed to bridge the gap between job seekers and their dream roles. Unlike simple keyword counters, SkillBridge uses a **Hybrid NLP Engine** to analyze resumes against job descriptions, providing a relevance score and actionable feedback on missing skills.
-
+**SkillBridge** is an intelligent career-tech tool designed to bridge the gap between job seekers and industry requirements[cite: 1]. By leveraging a **Hybrid NLP Engine**, it goes beyond simple keyword matching to provide deep semantic analysis and actionable feedback for resume optimization[cite: 1].
 ---
 
 ## 🌟 Key Features
@@ -61,7 +61,8 @@
 ## 📸 Screenshots
 
 ![My Dashboard](Dashboard1.png)
-
+![My Dashboard](Dashboard2.png)
+![My Dashboard](Dashboard3.png)
 ---
 
 ### 👨‍💻 Author
