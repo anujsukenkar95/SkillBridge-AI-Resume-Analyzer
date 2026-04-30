@@ -59,13 +59,15 @@
 ---
 
 ## 📸 Screenshots
-## 📸 Project Screenshots
 
-<p align="center">
-  <img src="Dashboard%201.png" width="600" title="Main Dashboard">
-  <img src="Dashboard%202.png" width="600" title="Analysis Results">
-  <img src="Dashboard%203.png" width="600" title="Visual Analytics">
-</p>
+### 🖥️ Main Dashboard
+![Dashboard Overview](Dashboard%201.png)
+
+### 📊 Analysis Results
+![Skill Gap Analysis](Dashboard%202.png)
+
+### 📈 Visual Analytics
+![Data Visualizations](Dashboard%203.png)
 
 ---
 
