@@ -1,4 +1,4 @@
-# 🚀 SkillBridge: AI-Powered Resume Gap Analyzer
+# 🚀 SkillBridge: AI-Resume Gap Analyzer
 
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue)
 ![Streamlit](https://img.shields.io/badge/Streamlit-App-red)
